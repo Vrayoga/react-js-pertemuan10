@@ -50,7 +50,7 @@
   background: whitesmoke;
 }
 
-.foto img : {
+.foto img {
   width: 790px;
 }
 
@@ -81,7 +81,6 @@
 }
 .Deskripsi .tombol {
   color: blue;
-  margin-left: ;
   margin-top: 50px;
   width: max-content;
   padding: 15px 17px 15px 17px;
