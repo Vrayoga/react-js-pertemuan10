@@ -36,3 +36,103 @@
     transform: rotate(360deg);
   }
 }
+.Parentbox {
+  width: 80%;
+  overflow: hidden;
+  margin: auto;
+  margin-top: 100px;
+}
+
+.Foto {
+  float: left;
+  width: 50%;
+  height: 500px;
+  background: whitesmoke;
+}
+
+.foto img : {
+  width: 790px;
+}
+
+.Deskripsi {
+  width: 40%;
+  overflow: hidden;
+  float: left;
+  margin-left: 30px;
+}
+
+.Deskripsi .Info {
+  line-height: 1.8;
+  color: rgb(18, 11, 49);
+}
+
+.Deskripsi .Price {
+  font-size: 20px;
+  font-weight: 500;
+  color: black;
+}
+
+.Deskripsi .Title {
+  margin: 0;
+}
+
+.Deskripsi .Cate {
+  color: #acaeb2;
+}
+.Deskripsi .tombol {
+  color: blue;
+  margin-left: ;
+  margin-top: 50px;
+  width: max-content;
+  padding: 15px 17px 15px 17px;
+  border-radius: 15px;
+}
+.Deskripsi .tombol:hover {
+  background-color: cyan;
+}
+.Deskripsi .color {
+  font-size: x-large;
+}
+.Deskripsi .black {
+  color: white;
+  background-color: black;
+  padding: 20px;
+  border-radius: 60%;
+  margin-top: 20px;
+}
+.Deskripsi .white {
+  color: black;
+  background-color: white;
+  padding: 20px;
+  border-radius: 60%;
+  margin-top: 20px;
+  margin-left: 30px;
+}
+.Deskripsi .red {
+  color: white;
+  background-color: red;
+  border-color: red;
+  padding: 20px;
+  border-radius: 60%;
+  margin-top: 20px;
+  margin-left: 30px;
+}
+.Deskripsi .blue {
+  color: white;
+  background-color: bLUE;
+  padding: 20px;
+  border-radius: 60%;
+  margin-top: 20px;
+  margin-left: 30px;
+}
+.Deskripsi .tombol2 {
+  color: blue;
+  margin-left: 20px;
+  margin-top: 50px;
+  width: max-content;
+  padding: 15px 17px 15px 17px;
+  border-radius: 15px;
+}
+.Deskripsi .tombol2:hover {
+  background-color: cyan;
+}
